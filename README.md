@@ -15,3 +15,10 @@ For example the following badge is self served by this project, not by any servi
 ## usage
 
     mocha --reporter mocha-reporter-badge > badge.svg
+
+You can configure it using environment variables, for example:
+
+    export MOCHA_BADGE_SUBJECT=lint
+    export MOCHA_BADGE_OK_COLOR=green
+    export MOCHA_BADGE_KO_COLOR=orange
+    export MOCHA_BADGE_STYLE=flat
