@@ -27,6 +27,8 @@
     "shields-lightweight": "^0.1.0"
   },
   "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-gh-pages": "^0.4.0",
     "mocha": "^2.1.0"
   }
 }
