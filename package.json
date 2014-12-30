@@ -1,6 +1,6 @@
 {
   "name": "mocha-reporter-badge",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A simple mocha reporter that produces a badge inspired by shields.io ",
   "main": "index.js",
   "scripts": {
