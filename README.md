@@ -6,7 +6,7 @@
 
 For example the following badge is self served by this project, not by any service provider.
 
-[Mocha tests status](http://albanm.github.io/mocha-reporter-badge/mocha-badge.svg)
+![Mocha tests status](http://albanm.github.io/mocha-reporter-badge/mocha-badge.svg)
 
 ## Install
 
