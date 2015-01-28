@@ -33,4 +33,4 @@ gulp.task('deploy-build', ['test-badge', 'git-config'], function() {
 		.pipe(deploy(deployOptions));
 });
 
-gulp.task('default', ['lint']);
+gulp.task('default', ['test-badge']);
